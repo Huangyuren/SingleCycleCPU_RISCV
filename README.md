@@ -8,6 +8,6 @@
 | S-Type | sd |
 | B-Type | beq |
 | J-Type | jal |
-**Decoding instructions with following table:**<br\>![Imgur](https://i.imgur.com/rNM9IJj.png)
+**Decoding instructions with following table:**<br/>![Imgur](https://i.imgur.com/rNM9IJj.png)
 > You can run these .v files through icarusverilog to compile and run the .out files.
 ex. iverilog -o ".outfilename" testbench.v
